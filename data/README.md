@@ -4,6 +4,7 @@ This folder holds the dataset and data-related assets for predicting student com
 
 ## Data Sources
 * **Primary Source:** Anonymized response-level data requested from the [SJSU Annual Student Commute Survey](https://www.sjsu.edu/as/departments/transportation-solutions/index.php)
+* * **Backup Source:** Student-filtered dataset from the National Household Travel Survey (NHTS)
 
 ## Target and Key Features
 * **Target Variable:** Primary commuting choice (driving, carpooling, transit, walking, biking)
