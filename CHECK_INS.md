@@ -1,6 +1,9 @@
 **Project Check-In Log**
+
 Check-In 1:
+  
   **Due Date:** October 10, 2026
+  
   **Completed**
   * Defined the project specifications
   * Identified the data sources and began exploration
