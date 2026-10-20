@@ -11,7 +11,7 @@
   * Defined project member roles
   
   **Next Steps**
-  * Explore approaches to solving the problems
+  * Explore our formed pipeline for approaching our problems
   * Form initial draft of project report
 
 
@@ -20,10 +20,10 @@
   **Due Date:** October 20, 2026
   
   **In-Progress**
-  * Explore the approaches to solving our problems
-  * Explore algorithms for our project
+  * Explore the approach to solving our problems
+  * Further expand on our initial draft
   * Create tentative abstract of our project
   
   **Next Steps**
   * Collect theoretical/experimental results via algorithms
-  * Fully determine the approaches to solving our problems
+  * Further explore algorithms for our project
