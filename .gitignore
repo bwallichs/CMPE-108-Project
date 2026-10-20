@@ -1,0 +1,12 @@
+# Data files (too large to store in the repo)
+data/*
+!data/.gitkeep
+
+# Python and notebook clutter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
