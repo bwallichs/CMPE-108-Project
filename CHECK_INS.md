@@ -1,6 +1,6 @@
-**Project Check-In Log**
+# **Project Check-In Log**
 
-Check-In 1:
+## Check-In 1:
   
   **Due Date:** October 10, 2026
   
@@ -15,7 +15,7 @@ Check-In 1:
   * Form initial draft of project report
 
 
-Check-In 2:
+## Check-In 2:
   
   **Due Date:** October 20, 2026
   
