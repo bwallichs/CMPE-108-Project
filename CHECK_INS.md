@@ -14,6 +14,7 @@ Check-In 1:
   * Explore approaches to solving the problems
   * Form initial draft of project report
 
+
 Check-In 2:
   
   **Due Date:** October 20, 2026
